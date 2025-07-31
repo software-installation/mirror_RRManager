@@ -3,10 +3,15 @@
     "137895375": {
       "tag_name": "v0.2",
       "fully_synced_at": "2025-07-31 09:04:49.901059"
+    },
+    "137895055": {
+      "tag_name": "v0.1",
+      "fully_synced_at": "2025-07-31 09:05:01.653773"
     }
   },
   "assets": {
-    "137895375": {}
+    "137895375": {},
+    "137895055": {}
   },
   "source_codes": {
     "v0.2": {
@@ -17,6 +22,16 @@
       "SourceCode_v0.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-31 09:04:49.406543"
+      }
+    },
+    "v0.1": {
+      "SourceCode_v0.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-31 09:04:58.069146"
+      },
+      "SourceCode_v0.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-31 09:05:01.139704"
       }
     }
   }
