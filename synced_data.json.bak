@@ -299,6 +299,10 @@
     "165215056": {
       "tag_name": "v.2.0.64",
       "fully_synced_at": "2025-07-31 09:21:47.713986"
+    },
+    "172943068": {
+      "tag_name": "v.2.0.65",
+      "fully_synced_at": "2025-07-31 09:22:03.023413"
     }
   },
   "assets": {
@@ -2100,6 +2104,16 @@
       "SourceCode_v.2.0.65.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-31 09:21:58.893107"
+      }
+    },
+    "v.2.0.66": {
+      "SourceCode_v.2.0.66.zip": {
+        "exists": true,
+        "synced_at": "2025-07-31 09:22:12.762297"
+      },
+      "SourceCode_v.2.0.66.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-31 09:22:14.637655"
       }
     }
   }
